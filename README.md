@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedALiImran
 - 👀 I’m interested in making intractive and dynamic single page websites and web applications.
-- 🌱 I’m currently learning JavaScript frame works
+- 🌱 I’m currently learning React and I want to become a MERN Stack Developer
 - 📫 How to reach me by me Email or by my phone number 
    Email: syed.ali.imran456@gmail.com 
    phone# : 03243249526
