@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @SyedALiImran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mern Stack Development
+- 🌱 I’m currently learning Mern Stack
+- 📫 syed.ali.imran456@gmail.com
 
-<!---
-SyedALiImran/SyedALiImran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
